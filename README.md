@@ -9,12 +9,12 @@
 [GitCLI](https://git-scm.com/downloads)
 
 Create a new environment
-'''
+```
 conda create -p venv python==3.7 -y
-'''
+```
 
 Connect with GIT
-'''
+```
 git config --global user.name " "
 git config --global user.email " "
-'''
+```
